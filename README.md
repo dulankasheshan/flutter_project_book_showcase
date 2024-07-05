@@ -10,6 +10,7 @@ Book showcase application.
 - Clean Architecture
 
 
+The methods mentioned above have been used in this flutter project.  In this project, not much attention has been given to the ui, and an attempt has been made to create a project using the technologies mentioned above.
 
 
 
